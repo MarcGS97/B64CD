@@ -1,0 +1,11 @@
+C:\Users\DESARROLLO\source\repos\B64CD\B64CD\bin\Debug\B64CD.exe.config
+C:\Users\DESARROLLO\source\repos\B64CD\B64CD\bin\Debug\B64CD.exe
+C:\Users\DESARROLLO\source\repos\B64CD\B64CD\bin\Debug\B64CD.pdb
+C:\Users\DESARROLLO\source\repos\B64CD\B64CD\obj\Debug\B64CD.csproj.AssemblyReference.cache
+C:\Users\DESARROLLO\source\repos\B64CD\B64CD\obj\Debug\B64CD.csproj.SuggestedBindingRedirects.cache
+C:\Users\DESARROLLO\source\repos\B64CD\B64CD\obj\Debug\B64CD.Form1.resources
+C:\Users\DESARROLLO\source\repos\B64CD\B64CD\obj\Debug\B64CD.Properties.Resources.resources
+C:\Users\DESARROLLO\source\repos\B64CD\B64CD\obj\Debug\B64CD.csproj.GenerateResource.cache
+C:\Users\DESARROLLO\source\repos\B64CD\B64CD\obj\Debug\B64CD.csproj.CoreCompileInputs.cache
+C:\Users\DESARROLLO\source\repos\B64CD\B64CD\obj\Debug\B64CD.exe
+C:\Users\DESARROLLO\source\repos\B64CD\B64CD\obj\Debug\B64CD.pdb
